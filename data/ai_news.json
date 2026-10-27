@@ -1,50 +1,50 @@
 {
-  "date": "2026-10-26",
-  "weekday": "周一",
+  "date": "2026-10-27",
+  "weekday": "周二",
   "categories": [
     {
       "name": "热门话题",
       "icon": "🔥",
       "items": [
         {
-          "title": "CFO对战T1",
-          "summary": "11万热度 CFO对战T1",
-          "url": "https://s.weibo.com/weibo?q=CFO对战T1"
+          "title": "事后道歉救不了姆巴佩",
+          "summary": "【热】70万热度 事后道歉救不了姆巴佩",
+          "url": "https://s.weibo.com/weibo?q=事后道歉救不了姆巴佩"
         },
         {
-          "title": "被张雪扔下水县委书记拿到大结果",
-          "summary": "8万热度 被张雪扔下水县委书记拿到大结果",
-          "url": "https://s.weibo.com/weibo?q=被张雪扔下水县委书记拿到大结果"
+          "title": "中国新晋女首富身家1270亿",
+          "summary": "【热】58万热度 中国新晋女首富身家1270亿",
+          "url": "https://s.weibo.com/weibo?q=中国新晋女首富身家1270亿"
         },
         {
-          "title": "外媒聚焦二十届五中全会",
-          "summary": "8万热度 外媒聚焦二十届五中全会",
-          "url": "https://s.weibo.com/weibo?q=外媒聚焦二十届五中全会"
+          "title": "我国产业结构向新向优向好升级",
+          "summary": "37万热度 我国产业结构向新向优向好升级",
+          "url": "https://s.weibo.com/weibo?q=我国产业结构向新向优向好升级"
         },
         {
-          "title": "降温上淘宝保暖爆款5折起",
-          "summary": "8万热度 降温上淘宝保暖爆款5折起",
-          "url": "https://s.weibo.com/weibo?q=降温上淘宝保暖爆款5折起"
+          "title": "第三代秦PLUS DM-i上市7.69万起",
+          "summary": "35万热度 第三代秦PLUS DM-i上市7.69万起",
+          "url": "https://s.weibo.com/weibo?q=第三代秦PLUS DM-i上市7.69万起"
         },
         {
-          "title": "樊振东国家德比观后感",
-          "summary": "【新】8万热度 樊振东国家德比观后感",
-          "url": "https://s.weibo.com/weibo?q=樊振东国家德比观后感"
+          "title": "中国足协与皇马俱乐部严正交涉",
+          "summary": "【沸】31万热度 中国足协与皇马俱乐部严正交涉",
+          "url": "https://s.weibo.com/weibo?q=中国足协与皇马俱乐部严正交涉"
         },
         {
-          "title": "Keria两波完美先手",
-          "summary": "【新】8万热度 Keria两波完美先手",
-          "url": "https://s.weibo.com/weibo?q=Keria两波完美先手"
+          "title": "外交部回应姆巴佩涉华不当言论",
+          "summary": "18万热度 外交部回应姆巴佩涉华不当言论",
+          "url": "https://s.weibo.com/weibo?q=外交部回应姆巴佩涉华不当言论"
         },
         {
-          "title": "2个衣架轻松收纳大衣",
-          "summary": "8万热度 2个衣架轻松收纳大衣",
-          "url": "https://s.weibo.com/weibo?q=2个衣架轻松收纳大衣"
+          "title": "北京动物园通报萌兰身体状态",
+          "summary": "17万热度 北京动物园通报萌兰身体状态",
+          "url": "https://s.weibo.com/weibo?q=北京动物园通报萌兰身体状态"
         },
         {
-          "title": "内存条有价无市",
-          "summary": "8万热度 内存条有价无市",
-          "url": "https://s.weibo.com/weibo?q=内存条有价无市"
+          "title": "医生辟谣多囊等于不孕",
+          "summary": "16万热度 医生辟谣多囊等于不孕",
+          "url": "https://s.weibo.com/weibo?q=医生辟谣多囊等于不孕"
         }
       ]
     },
@@ -67,12 +67,28 @@
       "icon": "🌿",
       "items": [
         {
-          "title": "中医养生：四季调理指南",
-          "summary": "传统中医分享四季养生要点，药膳食补增强体质。"
+          "title": "Supporting professional growth and better clinical decisions",
+          "summary": "丁香医生：Supporting professional growth and better clinical decisions。"
         },
         {
-          "title": "改善睡眠的实用方法",
-          "summary": "睡前远离屏幕、规律作息、适当运动，有效提升睡眠质量。"
+          "title": "Empowering healthcare professionals at every stage of their ",
+          "summary": "丁香医生：Empowering healthcare professionals at every stage of their careers。"
+        },
+        {
+          "title": "A trusted health platform for millions of consumers",
+          "summary": "丁香医生：A trusted health platform for millions of consumers。"
+        },
+        {
+          "title": "A trusted guide to healthier lives beyond the hospital",
+          "summary": "丁香医生：A trusted guide to healthier lives beyond the hospital。"
+        },
+        {
+          "title": "Global intelligence and industry expertise",
+          "summary": "丁香医生：Global intelligence and industry expertise。"
+        },
+        {
+          "title": "Specialist platforms for different industry needs",
+          "summary": "丁香医生：Specialist platforms for different industry needs。"
         }
       ]
     }
