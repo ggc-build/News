@@ -1,50 +1,50 @@
 {
-  "date": "2026-11-19",
-  "weekday": "周四",
+  "date": "2026-11-20",
+  "weekday": "周五",
   "categories": [
     {
       "name": "热门话题",
       "icon": "🔥",
       "items": [
         {
-          "title": "中俄美元首和平宣言",
-          "summary": "6万热度 中俄美元首和平宣言",
-          "url": "https://s.weibo.com/weibo?q=中俄美元首和平宣言"
+          "title": "后会友期黄焖鸡事件原声视频",
+          "summary": "【热】21万热度 后会友期黄焖鸡事件原声视频",
+          "url": "https://s.weibo.com/weibo?q=后会友期黄焖鸡事件原声视频"
         },
         {
-          "title": "马斯克从深圳飞到了上海",
-          "summary": "【热】5万热度 马斯克从深圳飞到了上海",
-          "url": "https://s.weibo.com/weibo?q=马斯克从深圳飞到了上海"
+          "title": "DeepSeek付费体验直线上升",
+          "summary": "11万热度 DeepSeek付费体验直线上升",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek付费体验直线上升"
         },
         {
-          "title": "一图读懂深圳倡议",
-          "summary": "5万热度 一图读懂深圳倡议",
-          "url": "https://s.weibo.com/weibo?q=一图读懂深圳倡议"
+          "title": "APEC盛会效应拉满",
+          "summary": "9万热度 APEC盛会效应拉满",
+          "url": "https://s.weibo.com/weibo?q=APEC盛会效应拉满"
         },
         {
-          "title": "沈奕斐聊婚姻里要留私房钱吗",
-          "summary": "5万热度 沈奕斐聊婚姻里要留私房钱吗",
-          "url": "https://s.weibo.com/weibo?q=沈奕斐聊婚姻里要留私房钱吗"
+          "title": "王子璇问马天宇你不会爱上我",
+          "summary": "【热】9万热度 王子璇问马天宇你不会爱上我",
+          "url": "https://s.weibo.com/weibo?q=王子璇问马天宇你不会爱上我"
         },
         {
-          "title": "特朗普登上空军一号挥手告别",
-          "summary": "5万热度 特朗普登上空军一号挥手告别",
-          "url": "https://s.weibo.com/weibo?q=特朗普登上空军一号挥手告别"
+          "title": "林更新你怎么什么都敢演",
+          "summary": "【热】7万热度 林更新你怎么什么都敢演",
+          "url": "https://s.weibo.com/weibo?q=林更新你怎么什么都敢演"
         },
         {
-          "title": "APEC晚宴用荔枝酒已限购",
-          "summary": "4万热度 APEC晚宴用荔枝酒已限购",
-          "url": "https://s.weibo.com/weibo?q=APEC晚宴用荔枝酒已限购"
+          "title": "金价罕见大跌原因找到了",
+          "summary": "【热】7万热度 金价罕见大跌原因找到了",
+          "url": "https://s.weibo.com/weibo?q=金价罕见大跌原因找到了"
         },
         {
-          "title": "特朗普登机前又做标志性动作",
-          "summary": "3万热度 特朗普登机前又做标志性动作",
-          "url": "https://s.weibo.com/weibo?q=特朗普登机前又做标志性动作"
+          "title": "张萌回应青稚打听式安慰",
+          "summary": "6万热度 张萌回应青稚打听式安慰",
+          "url": "https://s.weibo.com/weibo?q=张萌回应青稚打听式安慰"
         },
         {
-          "title": "李在明发文感谢中国热情接待",
-          "summary": "3万热度 李在明发文感谢中国热情接待",
-          "url": "https://s.weibo.com/weibo?q=李在明发文感谢中国热情接待"
+          "title": "AI证明黎曼猜想传闻",
+          "summary": "6万热度 AI证明黎曼猜想传闻",
+          "url": "https://s.weibo.com/weibo?q=AI证明黎曼猜想传闻"
         }
       ]
     },
@@ -67,28 +67,12 @@
       "icon": "🌿",
       "items": [
         {
-          "title": "Supporting professional growth and better clinical decisions",
-          "summary": "丁香医生：Supporting professional growth and better clinical decisions。"
+          "title": "中医养生：四季调理指南",
+          "summary": "传统中医分享四季养生要点，药膳食补增强体质。"
         },
         {
-          "title": "Empowering healthcare professionals at every stage of their ",
-          "summary": "丁香医生：Empowering healthcare professionals at every stage of their careers。"
-        },
-        {
-          "title": "A trusted health platform for millions of consumers",
-          "summary": "丁香医生：A trusted health platform for millions of consumers。"
-        },
-        {
-          "title": "A trusted guide to healthier lives beyond the hospital",
-          "summary": "丁香医生：A trusted guide to healthier lives beyond the hospital。"
-        },
-        {
-          "title": "Global intelligence and industry expertise",
-          "summary": "丁香医生：Global intelligence and industry expertise。"
-        },
-        {
-          "title": "Specialist platforms for different industry needs",
-          "summary": "丁香医生：Specialist platforms for different industry needs。"
+          "title": "改善睡眠的实用方法",
+          "summary": "睡前远离屏幕、规律作息、适当运动，有效提升睡眠质量。"
         }
       ]
     }
